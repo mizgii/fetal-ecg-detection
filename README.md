@@ -12,7 +12,9 @@ wfdb == 4.1.2
 
 ## Features
 Signal preprocessing to enhance fetal ECG signals
+
 Robust QRS detection adapted for fetal heart rates
+
 Maternal ECG cancellation to isolate fetal signals
 
 ## Results
