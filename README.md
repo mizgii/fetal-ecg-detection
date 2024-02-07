@@ -5,8 +5,11 @@ This repository hosts the project for the Biomedical Signal Processing class at 
 ## Requirements
 
 numpy == 1.23.4
+
 matplotlib == 3.6.1
+
 pandas == 2.1.1
+
 wfdb == 4.1.2
 
 ## Features
